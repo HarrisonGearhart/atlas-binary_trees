@@ -2,7 +2,7 @@
 /**
  * binary_tree_sibling - finds the sibling of a node
  * @node: pointer to node to find
- * Return: sibling or NULL if NULL 
+ * Return: sibling or NULL if NULL
 */
 binary_tree_t *binary_tree_sibling(binary_tree_t *node)
 {
